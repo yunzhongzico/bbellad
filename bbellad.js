@@ -40,7 +40,6 @@ function replaceImages () {
     img.src = IMAGES[Math.floor(Math.random() * IMAGES.length)]
     img.removeAttribute('srcset')
     const parent = img.parentElement
-    console.log('PARENTNAME', parent.nodeName)
     if (parent.nodeName === 'PICTURE') {
       const sources = Array.prototype.slice.call(parent.getElementsByTagName('source'))
       sources.forEach(source => parent.removeChild(source))
