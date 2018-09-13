@@ -28,7 +28,7 @@ const IMAGES = [
   'https://medier.talentum.com/ponIltIpIv-1447764113/media/3sti5u-Blondinbella142.jpg/alternates/FREE_640/Blondinbella142.jpg',
   'https://scontent-lga3-1.cdninstagram.com/vp/d1a770c35f386f60d9157f0117c42007/5C23A865/t51.2885-15/e35/37638035_1767933473325339_5114434428872949760_n.jpg',
   'https://vimedbarn.se/wp-content/uploads/2013/11/blondinbella-forlossning.jpg',
-  'http://s23439.pcdn.co/wp-content/uploads/2017/04/blondinbella.jpg',
+  'https://s23439.pcdn.co/wp-content/uploads/2017/04/blondinbella.jpg',
   'https://samhall.se/wp-content/uploads/2015/03/blondinbella03.jpg',
   'https://trendgiveafck.com/uploads/yapb_cache/blondin_o_muskler1.8aggn9ej2nsw04g0ck04844w0.f08dzjqsf5wg4sk0sw8w88ocg.th.jpeg'
 ]
