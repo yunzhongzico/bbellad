@@ -13,10 +13,10 @@ const IMAGES = [
   'https://cdn2.blovcdn.com/bloglovin/aHR0cHMlM0ElMkYlMkZldS1jZW50cmFsLTEudGNoeW4uaW8lMkZ1bml0ZWRibG9nZ2Vycy1zd2VkZW4tcHJvZHVjdGlvbiUyRnVwbG9hZHMlMkZzaXRlcyUyRjIxJTJGMjAxNiUyRjA4JTJGSU1HXzE0MDYuanBnJTNGcmVzaXplJTNEMTAyMCUyQzEzMzglMjZxdWFsaXR5JTNEODk=?checksum=83aa5bf51c6acacb108212c7d50a1042d2f6c735&format=j',
   'https://www.resume.se/globalassets/resume/nyheter/2010/11/23/blondinbellas-egoboost-bli/bella.jpg',
   'https://mameassetsprod.blob.core.windows.net/editorial/import/images/global/mama/bilder/2013/08/blondinbella.jpg',
-  'http://www.stoppabojkott.se/wp-content/uploads/2013/01/blondinbella.jpg',
+  'https://www.stoppabojkott.se/wp-content/uploads/2013/01/blondinbella.jpg',
   'https://artincorporated.files.wordpress.com/2011/02/blondin-bella-small.jpg?w=1088',
   'https://i.pinimg.com/originals/34/f1/00/34f100f19d2a63a9adc953295fd439ae.jpg',
-  'http://s23439.pcdn.co/wp-content/uploads/2017/04/blondinbella.jpg',
+  'https://s23439.pcdn.co/wp-content/uploads/2017/04/blondinbella.jpg',
   'https://i.ytimg.com/vi/ZVfyCNB_5w8/hqdefault.jpg',
   'https://cdn03.nyheter24.se/186fc60d03d802dc05/2018/09/13/1524728/isabella_lowengrip.jpg',
   'https://cdn02.nyheter24.se/d5a6ee6403d802dc05/2018/09/10/1524050/isabella_blondinbella_lowengrip.jpg',
@@ -30,7 +30,7 @@ const IMAGES = [
   'https://vimedbarn.se/wp-content/uploads/2013/11/blondinbella-forlossning.jpg',
   'http://s23439.pcdn.co/wp-content/uploads/2017/04/blondinbella.jpg',
   'https://samhall.se/wp-content/uploads/2015/03/blondinbella03.jpg',
-  'http://trendgiveafck.com/uploads/yapb_cache/blondin_o_muskler1.8aggn9ej2nsw04g0ck04844w0.f08dzjqsf5wg4sk0sw8w88ocg.th.jpeg'
+  'https://trendgiveafck.com/uploads/yapb_cache/blondin_o_muskler1.8aggn9ej2nsw04g0ck04844w0.f08dzjqsf5wg4sk0sw8w88ocg.th.jpeg'
 ]
 
 function replaceImages () {
